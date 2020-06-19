@@ -9,4 +9,8 @@ unzip lazymux.zip
 cd lazymux
 
 chmod +x *
+
 python2 lazymux.py
+
+
+enjoy much more
